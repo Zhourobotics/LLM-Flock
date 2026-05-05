@@ -10,8 +10,7 @@ Each agent can:
 This repository contains the simulation runtime, plotting pipeline, and analysis notebook used for experiments in shape formation tasks.
 
 Demo video:
-- https://github.com/user-attachments/assets/9b423128-a063-4f72-8b6b-8bf08f1c9c03
-- mirror: https://www.youtube.com/watch?v=Oqa_F1TSitc
+- https://youtu.be/8zcPYqjWzYo?si=NVISFMOwd_StI_vB
 
 ## What Is In This Repo
 
