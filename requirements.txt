@@ -1,0 +1,10 @@
+anthropic
+blessed
+matplotlib
+numpy
+openai
+pillow
+pydantic
+pydantic-ai
+PyYAML
+scipy
